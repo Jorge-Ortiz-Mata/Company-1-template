@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header, header nav, header div, header nav ul, header nav ul li{
+    border: 2px solid #ff0000;
+    margin: 1px;
+}
+
+header{
+    height: 700px;
+    background-image: url("media/building.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: soft-light;
+    background-color: #000000d4;
+    color: #ffffff;
+}
+
+header div{
+    height: 100%;
+}
+
+ul{
+    list-style: none;
+}
