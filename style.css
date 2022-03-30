@@ -79,3 +79,11 @@ footer{
     background-color: #007c9f;
     color: #e1f8ff;
 }
+
+.card{
+    width: 500px;
+}
+
+.image_card{
+    border-radius: 20px;
+}
