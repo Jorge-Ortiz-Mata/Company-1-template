@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    scroll-behavior: smooth;
 }
 
 
@@ -63,4 +64,18 @@ i:hover{
 footer{
     background-color: #000000;
     padding: 10px;
+}
+
+#seeMoreButton{
+    padding: 15px;
+    border: 0px;
+    border-radius: 30px;
+    font-weight: 500;
+    background-color: #e1f8ff;
+    width: 150px;
+}
+
+#seeMoreButton:hover{
+    background-color: #007c9f;
+    color: #e1f8ff;
 }
