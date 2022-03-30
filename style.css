@@ -26,6 +26,10 @@ header{
     background-image: url("media/contact-page.jpg");
 }
 
+.headerProducts{
+    background-image: url("media/products.jpg");
+}
+
 header, .icon, footer, .linkPage, .linkNavMenu{
     color: #ffffff;
 }
