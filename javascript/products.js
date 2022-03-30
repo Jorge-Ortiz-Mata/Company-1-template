@@ -9,7 +9,7 @@ const products = [
     {
         id: '759207',
         title: 'Cellphone',
-        image: '../media/cell.jpg',
+        image: '../media/cellphone.jpg',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. ',
         price: 399.99
     },
